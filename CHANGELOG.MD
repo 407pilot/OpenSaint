@@ -1,3 +1,30 @@
+# January 2025 (Released in April)
+
+* Removed old Arm Servo Shroud
+* Added a Raspberry PI 5 Model and Mount
+* Added a shim for the Shoulder Servo
+* Updated Battery Doors with new magnet layout
+* Added drawing for Idler Lockdown Plate
+* Added drawing for Lower Torso Covering Mount Plate
+* Added drawing for Console Gear Arms
+* Added acrylic Status Plate for the Console
+* Removed ‘3D Printable Parts’ folder. Many things were outdated
+* Added Military Head Armor
+* Updated Neck Tensioner Cover thickness
+* Adjustments to Arm core piece
+* Adjusted the Cradle Base side mounts to allow spacing for fasteners
+* Lots of Lower Torso Covering changes
+  * Adjustment to curved section to remove locating feature
+  * Swapped out small circular magnets on console side panels with larger flat magnets
+  * Adjusted top section to add chamfers for 3D printing
+  * Added cable passthrough for console section servo
+  * Adjusted console faceplate to allow cable routing of power button
+  * Added status light section to the Console case
+  * Started adding nurnies to the battery doors
+  * Started adding split surfaces for the top section
+  * Added chamfer to battery doors to ease closing
+  * Adjusted the door rack frame to allow over-tightening
+
 # October 2024 (Released in November)
 
 * Added drawings for finger linkages
